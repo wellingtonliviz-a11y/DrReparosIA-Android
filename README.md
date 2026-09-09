@@ -1,8 +1,10 @@
 <div align="center">
 
-# 🔧 Dr Reparos IA
+<img src="images/Mascote%20DR%20Reparos%20IA.png" width="120" alt="Mascote Dr Reparos IA">
 
-### Assistência Residencial Inteligente
+<h1>🔧 Dr Reparos IA</h1>
+
+<h3>Assistência Residencial Inteligente</h3>
 
 Aplicativo desenvolvido para utilizar tecnologia e Inteligência Artificial  
 na identificação e solução de problemas de manutenção residencial.
@@ -38,6 +40,25 @@ O projeto está em desenvolvimento e sua arquitetura continuará evoluindo com n
 - 🏠 Solicitação de atendimento presencial
 - 📱 Aplicativo Android funcional
 
+---
+
+## 📱 Aplicativo em funcionamento
+
+<p align="center">
+  <img src="images/Captura%20de%20tela%202026-09-08%20234140.png" width="220" alt="Dr Reparos IA">
+  &nbsp;&nbsp;
+  <img src="images/Captura%20de%20tela%202026-09-08%20234155.png" width="220" alt="Diagnóstico Dr Reparos IA">
+  &nbsp;&nbsp;
+  <img src="images/Captura%20de%20tela%202026-09-08%20234214.png" width="220" alt="Materiais Dr Reparos IA">
+  &nbsp;&nbsp;
+  <img src="images/Captura%20de%20tela%202026-09-08%20234232.png" width="220" alt="Passo a passo Dr Reparos IA">
+</p>
+
+<p align="center">
+  <b>Aplicativo Android v1.0.0 executado e testado em dispositivo real.</b>
+</p>
+
+---
 ---
 
 ## 💻 Tecnologias utilizadas
